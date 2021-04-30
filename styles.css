@@ -3,8 +3,6 @@
   @media screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
 
     html, body{
-      height: 100% !important;
-      width: 100% !important;
       display: block;
       background-color: hsl(233, 47%, 7%);
 
@@ -62,7 +60,7 @@
   }
 
     html, body{
-      height: 1440px;
+      height: 100%;
       width: 100%;
       background-color: hsl(233, 47%, 7%);
       font-family: 'Inter', sans-serif;
